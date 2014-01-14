@@ -1,0 +1,475 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>moon1.fbx</Source>
+      <Name>moon1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Pucong Han\Documents\Visual Studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\bin\x86\Debug\Content\moon1.xnb</Output>
+      <Time>2012-02-02T03:18:58+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\moon1_0.xml</Key>
+        <Value>2012-02-07T23:05:56.7166964+08:00</Value>
+      </Dependency>
+      <Request>C:\Users\Pucong Han\Documents\Visual Studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\bin\x86\Debug\Content\planet_tex17_2048x1024_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>moon2.fbx</Source>
+      <Name>moon2</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Pucong Han\Documents\Visual Studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\bin\x86\Debug\Content\moon2.xnb</Output>
+      <Time>2012-02-02T03:22:22+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\moon2_0.xml</Key>
+        <Value>2012-02-07T23:05:59.1298344+08:00</Value>
+      </Dependency>
+      <Request>C:\Users\Pucong Han\Documents\Visual Studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\bin\x86\Debug\Content\planet_tex18_2048x1024_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>planet1.fbx</Source>
+      <Name>planet1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Pucong Han\Documents\Visual Studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\bin\x86\Debug\Content\planet1.xnb</Output>
+      <Time>2012-02-02T03:24:48+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\planet1_0.xml</Key>
+        <Value>2012-02-07T23:06:00.3659051+08:00</Value>
+      </Dependency>
+      <Request>C:\Users\Pucong Han\Documents\Visual Studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\bin\x86\Debug\Content\planet_tex2_2048x1024_0.xnb</Request>
+      <Request>C:\Users\Pucong Han\Documents\Visual Studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\bin\x86\Debug\Content\planet_rings_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>planet2.fbx</Source>
+      <Name>planet2</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Pucong Han\Documents\Visual Studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\bin\x86\Debug\Content\planet2.xnb</Output>
+      <Time>2012-02-02T03:27:52+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\planet2_0.xml</Key>
+        <Value>2012-02-07T23:06:01.7479842+08:00</Value>
+      </Dependency>
+      <Request>C:\Users\Pucong Han\Documents\Visual Studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\bin\x86\Debug\Content\planet_tex12_2048x1024_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>planet3.fbx</Source>
+      <Name>planet3</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Pucong Han\Documents\Visual Studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\bin\x86\Debug\Content\planet3.xnb</Output>
+      <Time>2012-02-02T03:29:44+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\planet3_0.xml</Key>
+        <Value>2012-02-07T23:06:02.9310518+08:00</Value>
+      </Dependency>
+      <Request>C:\Users\Pucong Han\Documents\Visual Studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\bin\x86\Debug\Content\planet_tex9_2048x1024_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>planet4.fbx</Source>
+      <Name>planet4</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Pucong Han\Documents\Visual Studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\bin\x86\Debug\Content\planet4.xnb</Output>
+      <Time>2012-02-02T03:31:36+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\planet4_0.xml</Key>
+        <Value>2012-02-07T23:06:04.176123+08:00</Value>
+      </Dependency>
+      <Request>C:\Users\Pucong Han\Documents\Visual Studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\bin\x86\Debug\Content\planet_tex4_2048x1024_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>sun1.fbx</Source>
+      <Name>sun1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Pucong Han\Documents\Visual Studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\bin\x86\Debug\Content\sun1.xnb</Output>
+      <Time>2012-02-02T03:52:52+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\sun1_0.xml</Key>
+        <Value>2012-02-07T23:06:05.3361894+08:00</Value>
+      </Dependency>
+      <Request>C:\Users\Pucong Han\Documents\Visual Studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\bin\x86\Debug\Content\sun_tex1_2048x1024_0.xnb</Request>
+      <Request>C:\Users\Pucong Han\Documents\Visual Studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\bin\x86\Debug\Content\sun_glow_orange_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>sun2.fbx</Source>
+      <Name>sun2</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Pucong Han\Documents\Visual Studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\bin\x86\Debug\Content\sun2.xnb</Output>
+      <Time>2012-02-02T03:50:04+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\sun2_0.xml</Key>
+        <Value>2012-02-07T23:06:06.7042676+08:00</Value>
+      </Dependency>
+      <Request>C:\Users\Pucong Han\Documents\Visual Studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\bin\x86\Debug\Content\sun_tex7_2048x1024_0.xnb</Request>
+      <Request>C:\Users\Pucong Han\Documents\Visual Studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\bin\x86\Debug\Content\sun_glow_blue_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>sun_tex1_2048x1024.jpg</Source>
+      <Name>sun_tex1_2048x1024</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Pucong Han\Documents\Visual Studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\bin\x86\Debug\Content\sun_tex1_2048x1024.xnb</Output>
+      <Time>2012-02-02T03:37:24+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Arial.spritefont</Source>
+      <Name>Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Pucong Han\Documents\Visual Studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\bin\x86\Debug\Content\Arial.xnb</Output>
+      <Time>2012-02-09T15:34:14.9027591+08:00</Time>
+    </Item>
+    <Item>
+      <Source>moon1.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\moon1_0.xml</Output>
+      <Time>2012-02-02T03:18:58+08:00</Time>
+    </Item>
+    <Item>
+      <Source>planet_tex17_2048x1024.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Pucong Han\Documents\Visual Studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\bin\x86\Debug\Content\planet_tex17_2048x1024_0.xnb</Output>
+      <Time>2012-02-02T03:19:32+08:00</Time>
+    </Item>
+    <Item>
+      <Source>moon2.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\moon2_0.xml</Output>
+      <Time>2012-02-02T03:22:22+08:00</Time>
+    </Item>
+    <Item>
+      <Source>planet_tex18_2048x1024.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Pucong Han\Documents\Visual Studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\bin\x86\Debug\Content\planet_tex18_2048x1024_0.xnb</Output>
+      <Time>2012-02-02T03:22:50+08:00</Time>
+    </Item>
+    <Item>
+      <Source>planet1.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\planet1_0.xml</Output>
+      <Time>2012-02-02T03:24:48+08:00</Time>
+    </Item>
+    <Item>
+      <Source>planet_tex2_2048x1024.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Pucong Han\Documents\Visual Studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\bin\x86\Debug\Content\planet_tex2_2048x1024_0.xnb</Output>
+      <Time>2012-02-02T03:05:42+08:00</Time>
+    </Item>
+    <Item>
+      <Source>planet_rings.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Pucong Han\Documents\Visual Studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\bin\x86\Debug\Content\planet_rings_0.xnb</Output>
+      <Time>2012-02-02T03:07:54+08:00</Time>
+    </Item>
+    <Item>
+      <Source>planet2.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\planet2_0.xml</Output>
+      <Time>2012-02-02T03:27:52+08:00</Time>
+    </Item>
+    <Item>
+      <Source>planet_tex12_2048x1024.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Pucong Han\Documents\Visual Studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\bin\x86\Debug\Content\planet_tex12_2048x1024_0.xnb</Output>
+      <Time>2012-02-02T03:28:18+08:00</Time>
+    </Item>
+    <Item>
+      <Source>planet3.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\planet3_0.xml</Output>
+      <Time>2012-02-02T03:29:44+08:00</Time>
+    </Item>
+    <Item>
+      <Source>planet_tex9_2048x1024.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Pucong Han\Documents\Visual Studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\bin\x86\Debug\Content\planet_tex9_2048x1024_0.xnb</Output>
+      <Time>2012-02-02T03:29:58+08:00</Time>
+    </Item>
+    <Item>
+      <Source>planet4.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\planet4_0.xml</Output>
+      <Time>2012-02-02T03:31:36+08:00</Time>
+    </Item>
+    <Item>
+      <Source>planet_tex4_2048x1024.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Pucong Han\Documents\Visual Studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\bin\x86\Debug\Content\planet_tex4_2048x1024_0.xnb</Output>
+      <Time>2012-02-02T03:31:52+08:00</Time>
+    </Item>
+    <Item>
+      <Source>sun1.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\sun1_0.xml</Output>
+      <Time>2012-02-02T03:52:52+08:00</Time>
+    </Item>
+    <Item>
+      <Source>sun_tex1_2048x1024.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Pucong Han\Documents\Visual Studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\bin\x86\Debug\Content\sun_tex1_2048x1024_0.xnb</Output>
+      <Time>2012-02-02T03:37:24+08:00</Time>
+    </Item>
+    <Item>
+      <Source>sun_glow_orange.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Pucong Han\Documents\Visual Studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\bin\x86\Debug\Content\sun_glow_orange_0.xnb</Output>
+      <Time>2012-02-02T03:38:30+08:00</Time>
+    </Item>
+    <Item>
+      <Source>sun2.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\sun2_0.xml</Output>
+      <Time>2012-02-02T03:50:04+08:00</Time>
+    </Item>
+    <Item>
+      <Source>sun_tex7_2048x1024.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Pucong Han\Documents\Visual Studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\bin\x86\Debug\Content\sun_tex7_2048x1024_0.xnb</Output>
+      <Time>2012-02-02T03:50:36+08:00</Time>
+    </Item>
+    <Item>
+      <Source>sun_glow_blue.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Pucong Han\Documents\Visual Studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\bin\x86\Debug\Content\sun_glow_blue_0.xnb</Output>
+      <Time>2012-02-02T03:51:06+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ArialSmall.spritefont</Source>
+      <Name>ArialSmall</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Pucong Han\Documents\Visual Studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\bin\x86\Debug\Content\ArialSmall.xnb</Output>
+      <Time>2012-02-09T00:56:05.942264+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ArialMiddle.spritefont</Source>
+      <Name>ArialMiddle</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Pucong Han\Documents\Visual Studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\bin\x86\Debug\Content\ArialMiddle.xnb</Output>
+      <Time>2012-02-09T01:06:03.4984423+08:00</Time>
+    </Item>
+    <Item>
+      <Source>pockeballs.fbx</Source>
+      <Name>pockeballs</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Pucong Han\Documents\Visual Studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\bin\x86\Debug\Content\pockeballs.xnb</Output>
+      <Time>2010-09-13T22:45:17.359375+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\pockeballs_0.xml</Key>
+        <Value>2012-02-09T01:50:19.9553829+08:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>pockeballs.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\pockeballs_0.xml</Output>
+      <Time>2010-09-13T22:45:17.359375+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ArialQuitMessage.spritefont</Source>
+      <Name>ArialQuitMessage</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Pucong Han\Documents\Visual Studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\bin\x86\Debug\Content\ArialQuitMessage.xnb</Output>
+      <Time>2012-02-09T15:34:19.743036+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ArialEscape.spritefont</Source>
+      <Name>ArialEscape</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Pucong Han\Documents\Visual Studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\bin\x86\Debug\Content\ArialEscape.xnb</Output>
+      <Time>2012-02-09T23:54:58.4819116+08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Pucong Han\Documents\Visual Studio 2010\Projects\SolarSystem\SolarSystem\SolarSystemContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Pucong Han\Documents\Visual Studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Pucong Han\Documents\Visual Studio 2010\Projects\SolarSystem\SolarSystem\SolarSystemContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Pucong Han\Documents\Visual Studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\GoblinXNAv4.0beta3\bin\x86\NewtonWrapper.dll</Key>
+        <Value>2011-10-28T17:51:04+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\GoblinXNAv4.0beta3\bin\x86\GoblinXNA.dll</Key>
+        <Value>2012-02-07T13:31:28.4517279+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-02-03T06:52:39.0965907+08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
